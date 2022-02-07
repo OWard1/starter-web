@@ -16,6 +16,7 @@ This is a simple web project, deployment can be on any web server or even local 
 
 ## How To Contribute
 
+Fork this and pull then commmit 
 ### Copyright
 
 There is a copyright notice here now. New one
