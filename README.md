@@ -20,4 +20,4 @@ Fork this and pull then push + commit
 
 ### Copyright
 
-There is a copyright notice here now. New one
+There is a copyright notice here now. New one and thanks for my students
